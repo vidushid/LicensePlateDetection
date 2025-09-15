@@ -1,3 +1,6 @@
-# LicensePlateDetection
+# License Plate Detection
 
-Code to be added by 5th Sep 2025
+
+Learning practical implementation of different aspects of machine learning
+pipeline via developing an efficient Licence Plate Recognition System.
+Models Used: NN, kNN, CNN, Tesseract
